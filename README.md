@@ -1,0 +1,2 @@
+# template
+Projeto base TypeScript
